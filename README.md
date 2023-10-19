@@ -5,7 +5,9 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 This White App, with templete from prime component
 The backend and database script are in the projet : ecommerce
 https://github.com/MADMOUNIR/e-commerce-api.git
-update the file service/products.service.tsx
+```
+update the file [service/products.service.tsx] by the adresse of web api
+```
 ```bash
 npm run dev
 # or
